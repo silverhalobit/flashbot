@@ -1,0 +1,2 @@
+# flashbot
+SUPER EASY BOT
